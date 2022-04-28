@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/static/js/main.7df083ac.chunk.js",
-    "main.js.map": "/static/js/main.7df083ac.chunk.js.map",
+    "main.js": "/static/js/main.909de8eb.chunk.js",
+    "main.js.map": "/static/js/main.909de8eb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a28230b2.js",
     "runtime-main.js.map": "/static/js/runtime-main.a28230b2.js.map",
     "static/css/2.c268c7e3.chunk.css": "/static/css/2.c268c7e3.chunk.css",
@@ -13,7 +13,6 @@
     "static/media/Montserrat-Bold.079ca05d.ttf": "/static/media/Montserrat-Bold.079ca05d.ttf",
     "static/media/Montserrat-SemiBold.fa8441f3.ttf": "/static/media/Montserrat-SemiBold.fa8441f3.ttf",
     "static/media/RobotoMono-Regular.418a8f9f.ttf": "/static/media/RobotoMono-Regular.418a8f9f.ttf",
-    "static/media/about-page-img.9c8789a0.png": "/static/media/about-page-img.9c8789a0.png",
     "static/media/about-sec-img.7bfe78d6.jpg": "/static/media/about-sec-img.7bfe78d6.jpg",
     "static/media/cointracker.54149a83.jpg": "/static/media/cointracker.54149a83.jpg",
     "static/media/hero.8bd15cdb.png": "/static/media/hero.8bd15cdb.png",
@@ -27,6 +26,6 @@
     "static/js/runtime-main.a28230b2.js",
     "static/css/2.c268c7e3.chunk.css",
     "static/js/2.812effcd.chunk.js",
-    "static/js/main.7df083ac.chunk.js"
+    "static/js/main.909de8eb.chunk.js"
   ]
 }
